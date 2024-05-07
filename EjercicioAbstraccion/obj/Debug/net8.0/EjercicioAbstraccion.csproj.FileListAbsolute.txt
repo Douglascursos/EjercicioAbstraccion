@@ -1,0 +1,14 @@
+C:\Users\Douglas\source\repos\EjercicioAbstraccion\EjercicioAbstraccion\bin\Debug\net8.0\EjercicioAbstraccion.exe
+C:\Users\Douglas\source\repos\EjercicioAbstraccion\EjercicioAbstraccion\bin\Debug\net8.0\EjercicioAbstraccion.deps.json
+C:\Users\Douglas\source\repos\EjercicioAbstraccion\EjercicioAbstraccion\bin\Debug\net8.0\EjercicioAbstraccion.runtimeconfig.json
+C:\Users\Douglas\source\repos\EjercicioAbstraccion\EjercicioAbstraccion\bin\Debug\net8.0\EjercicioAbstraccion.dll
+C:\Users\Douglas\source\repos\EjercicioAbstraccion\EjercicioAbstraccion\bin\Debug\net8.0\EjercicioAbstraccion.pdb
+C:\Users\Douglas\source\repos\EjercicioAbstraccion\EjercicioAbstraccion\obj\Debug\net8.0\EjercicioAbstraccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas\source\repos\EjercicioAbstraccion\EjercicioAbstraccion\obj\Debug\net8.0\EjercicioAbstraccion.AssemblyInfoInputs.cache
+C:\Users\Douglas\source\repos\EjercicioAbstraccion\EjercicioAbstraccion\obj\Debug\net8.0\EjercicioAbstraccion.AssemblyInfo.cs
+C:\Users\Douglas\source\repos\EjercicioAbstraccion\EjercicioAbstraccion\obj\Debug\net8.0\EjercicioAbstraccion.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\source\repos\EjercicioAbstraccion\EjercicioAbstraccion\obj\Debug\net8.0\EjercicioAbstraccion.dll
+C:\Users\Douglas\source\repos\EjercicioAbstraccion\EjercicioAbstraccion\obj\Debug\net8.0\refint\EjercicioAbstraccion.dll
+C:\Users\Douglas\source\repos\EjercicioAbstraccion\EjercicioAbstraccion\obj\Debug\net8.0\EjercicioAbstraccion.pdb
+C:\Users\Douglas\source\repos\EjercicioAbstraccion\EjercicioAbstraccion\obj\Debug\net8.0\EjercicioAbstraccion.genruntimeconfig.cache
+C:\Users\Douglas\source\repos\EjercicioAbstraccion\EjercicioAbstraccion\obj\Debug\net8.0\ref\EjercicioAbstraccion.dll
